@@ -2,15 +2,18 @@
 
 Overview
 
-This project implements real-time object detection using YOLOv5 and OpenCV with a webcam. It detects multiple objects in real-time, drawing bounding boxes and labels on detected objects. The project is ideal for robotics, automation, and STEM education.
+This project implements real-time object detection using YOLOv5 and OpenCV with a webcam. It detects multiple objects in real-time, drawing bounding boxes and labels on detected objects. 
 
 ## Features
 
 Uses YOLOv5 for real-time object detection
+
 Runs on a laptop webcam (Linux/macOS/Windows compatible)
+
 Efficient and Fast inference using PyTorch
+
 Tracks multiple objects simultaneously
-Easy to extend (custom dataset, additional features)
+
 
 ## Installation
 
