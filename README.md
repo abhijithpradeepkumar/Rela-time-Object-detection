@@ -22,12 +22,14 @@ Ensure you have Python 3.7 or later installed.
 
 ```bash
 pip install opencv-python torch torchvision numpy ultralytics
+```bash
 
 Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/real-time-object-detection.git
 cd real-time-object-detection
+```bash
 
 Running the Project
 
@@ -35,6 +37,7 @@ Run the Python script to start real-time detection:
 
 ```bash
 python object_detection_yolo.py
+```bash
 
 Usage
 
