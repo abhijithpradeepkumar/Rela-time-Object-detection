@@ -51,9 +51,13 @@ Press 'q' to quit the application.
 ## How It Works
 
 Load YOLOv5: Downloads and initializes the pre-trained yolov5s model.
+
 Capture Video: Uses OpenCV to access the webcam.
+
 Process Frames: Converts frames to RGB and passes them to YOLOv5.
+
 Detect Objects: Extracts bounding boxes, confidence scores, and class labels.
+
 Draw Bounding Boxes: Displays detected objects in real-time.
 
 ## Customizations pending
