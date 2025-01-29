@@ -45,7 +45,7 @@ The script will open your webcam and start detecting objects.
 
 Press 'q' to quit the application.
 
-How It Works
+## How It Works
 
 Load YOLOv5: Downloads and initializes the pre-trained yolov5s model.
 Capture Video: Uses OpenCV to access the webcam.
@@ -53,15 +53,16 @@ Process Frames: Converts frames to RGB and passes them to YOLOv5.
 Detect Objects: Extracts bounding boxes, confidence scores, and class labels.
 Draw Bounding Boxes: Displays detected objects in real-time.
 
-Customization
+## Customizations pending
 
-Modify the confidence threshold in the script to adjust detection sensitivity.
+Modifying the confidence threshold in the script to adjust detection sensitivity.
 
-Train YOLOv5 on a custom dataset to detect specific objects.
+Training YOLOv5 on a custom dataset to detect specific objects.
 
-Implement robotics integration by using bounding box coordinates for control.
+Implementing robotics integration by using bounding box coordinates for control.
 
-Future Enhancements
+## Future Enhancements :
+
 Implement object tracking for motion analysis.
 Deploy on embedded devices (Jetson Nano, Raspberry Pi).
 
