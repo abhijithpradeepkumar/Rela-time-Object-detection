@@ -22,7 +22,7 @@ Ensure you have Python 3.7 or later installed.
 
 ```bash
 pip install opencv-python torch torchvision numpy ultralytics
-
+```
 
 Clone the Repository
 
